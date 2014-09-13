@@ -1,0 +1,17 @@
+﻿2014/09/13 14:11:42 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\projects\7th_Voice\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" (Build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug.win32\libAudio.tlog\unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       Lib:
+         すべての出力が最新のものです。
+         CocosDenshion.vcxproj -> C:\projects\7th_Voice\proj.win32\Debug.win32\libAudio.lib
+       FinalizeBuildStatus:
+         ファイル "Debug.win32\libAudio.tlog\unsuccessfulbuild" を削除しています。
+         "Debug.win32\libAudio.tlog\libAudio.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\projects\7th_Voice\cocos2d\cocos\audio\proj.win32\CocosDenshion.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.14
