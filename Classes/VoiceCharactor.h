@@ -9,6 +9,11 @@
 #ifndef ___th_Voice__VoiceCharactor__
 #define ___th_Voice__VoiceCharactor__
 
-#include <iostream>
+#include "cocos2d.h"
+USING_NS_CC;
+
+class VoiceCharactor : public Sprite {
+    
+};
 
 #endif /* defined(___th_Voice__VoiceCharactor__) */
